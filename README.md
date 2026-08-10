@@ -266,6 +266,6 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**DHARM PRAKASH**
 
 If you found this project useful, consider ⭐ starring the repository.
