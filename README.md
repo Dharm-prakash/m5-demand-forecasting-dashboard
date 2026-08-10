@@ -1,4 +1,5 @@
 # M5 Demand Forecasting + Inventory Optimization — Dashboard
+- https://m5-demand-forecasting-dashboard-1.streamlit.app/
 
 Interactive Streamlit dashboard for the M5 Walmart demand forecasting project.
 Compares ARIMA/SARIMA, LightGBM, and LSTM forecasts, and converts predictions
